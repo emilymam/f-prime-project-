@@ -1,0 +1,44 @@
+// ======================================================================
+// \title  Drain.hpp
+// \author bocchino, mereweth
+// \brief  Test drain mode
+//
+// \copyright
+// Copyright (c) 2017 California Institute of Technology.
+// ALL RIGHTS RESERVED.  United States Government Sponsorship
+// acknowledged.
+//
+// ======================================================================
+
+#ifndef Svc_Drain_HPP
+#define Svc_Drain_HPP
+
+#include "BufferAccumulatorTester.hpp"
+
+namespace Svc {
+
+namespace Drain {
+
+class BufferAccumulatorTester : public Svc::BufferAccumulatorTester {
+  public:
+    using Svc::BufferAccumulatorTester::BufferAccumulatorTester;
+
+    // ----------------------------------------------------------------------
+    // Tests
+    // ----------------------------------------------------------------------
+
+    //! Send some buffers
+    void OK(void);
+
+    //! Initialize the accumulator in drain mode
+    void InitialMode(void);
+
+    //! Run PartialDrain command in nominal way
+    void PartialDrainOK(void);
+};
+
+}  // namespace Drain
+
+}  // namespace Svc
+
+#endif
