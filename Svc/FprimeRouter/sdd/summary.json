@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "artifact": "sdd",
+  "generated_at": "2026-09-15T23:18:59Z",
+  "ref": "main",
+  "commit": "179159ce0ccd7abbe7b5497349058cab04884418",
+  "tier": "gold",
+  "has_sdd": true,
+  "sections": 6,
+  "filled_sections": 4,
+  "prose_words": 400,
+  "placeholder_hits": 0,
+  "table_kinds": [],
+  "declared_kinds": [
+    "events",
+    "ports"
+  ],
+  "rendered_url": "https://fprime.jpl.nasa.gov/main/Svc/FprimeRouter/docs/sdd/",
+  "doxygen": [
+    {
+      "name": "Svc::FprimeRouter",
+      "url": "https://fprime.jpl.nasa.gov/main/docs/reference/api/cpp/html/class_svc_1_1_fprime_router.html"
+    }
+  ]
+}

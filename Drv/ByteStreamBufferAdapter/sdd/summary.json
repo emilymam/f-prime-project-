@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "artifact": "sdd",
+  "generated_at": "2026-09-15T23:18:59Z",
+  "ref": "main",
+  "commit": "179159ce0ccd7abbe7b5497349058cab04884418",
+  "tier": "silver",
+  "has_sdd": true,
+  "sections": 7,
+  "filled_sections": 3,
+  "prose_words": 167,
+  "placeholder_hits": 0,
+  "table_kinds": [
+    "events"
+  ],
+  "declared_kinds": [
+    "events"
+  ],
+  "rendered_url": "https://fprime.jpl.nasa.gov/main/Drv/ByteStreamBufferAdapter/docs/sdd/",
+  "doxygen": [
+    {
+      "name": "Drv::ByteStreamBufferAdapter",
+      "url": "https://fprime.jpl.nasa.gov/main/docs/reference/api/cpp/html/class_drv_1_1_byte_stream_buffer_adapter.html"
+    }
+  ]
+}

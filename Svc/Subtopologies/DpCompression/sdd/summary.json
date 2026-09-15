@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "artifact": "sdd",
+  "generated_at": "2026-09-15T23:18:59Z",
+  "ref": "main",
+  "commit": "179159ce0ccd7abbe7b5497349058cab04884418",
+  "tier": "bronze",
+  "has_sdd": true,
+  "sections": 11,
+  "filled_sections": 4,
+  "prose_words": 161,
+  "placeholder_hits": 0,
+  "table_kinds": [
+    "ports"
+  ],
+  "declared_kinds": [],
+  "rendered_url": "https://fprime.jpl.nasa.gov/main/Svc/Subtopologies/DpCompression/docs/sdd/",
+  "doxygen": []
+}

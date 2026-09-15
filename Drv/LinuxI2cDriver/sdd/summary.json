@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "artifact": "sdd",
+  "generated_at": "2026-09-15T23:18:59Z",
+  "ref": "main",
+  "commit": "179159ce0ccd7abbe7b5497349058cab04884418",
+  "tier": "platinum",
+  "has_sdd": true,
+  "sections": 8,
+  "filled_sections": 5,
+  "prose_words": 297,
+  "placeholder_hits": 0,
+  "table_kinds": [
+    "ports"
+  ],
+  "declared_kinds": [],
+  "rendered_url": "https://fprime.jpl.nasa.gov/main/Drv/LinuxI2cDriver/docs/sdd/",
+  "doxygen": [
+    {
+      "name": "Drv::LinuxI2cDriver",
+      "url": "https://fprime.jpl.nasa.gov/main/docs/reference/api/cpp/html/class_drv_1_1_linux_i2c_driver.html"
+    }
+  ]
+}

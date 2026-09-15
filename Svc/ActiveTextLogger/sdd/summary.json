@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "artifact": "sdd",
+  "generated_at": "2026-09-15T23:18:59Z",
+  "ref": "main",
+  "commit": "179159ce0ccd7abbe7b5497349058cab04884418",
+  "tier": "platinum",
+  "has_sdd": true,
+  "sections": 16,
+  "filled_sections": 4,
+  "prose_words": 272,
+  "placeholder_hits": 2,
+  "table_kinds": [
+    "ports"
+  ],
+  "declared_kinds": [
+    "ports"
+  ],
+  "rendered_url": "https://fprime.jpl.nasa.gov/main/Svc/ActiveTextLogger/docs/sdd/",
+  "doxygen": [
+    {
+      "name": "Svc::ActiveTextLogger",
+      "url": "https://fprime.jpl.nasa.gov/main/docs/reference/api/cpp/html/class_svc_1_1_active_text_logger.html"
+    }
+  ]
+}
