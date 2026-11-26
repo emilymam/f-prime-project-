@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "artifact": "sdd",
-  "generated_at": "2026-11-25T03:52:14Z",
+  "generated_at": "2026-11-26T03:17:27Z",
   "ref": "main",
   "commit": "179159ce0ccd7abbe7b5497349058cab04884418",
   "tier": "bronze",
